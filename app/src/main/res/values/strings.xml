@@ -1,0 +1,10 @@
+ <resources>
+    <string name="app_name">IMC Application 3.0</string>
+
+     <string-array name="sexo">
+             <item>Feminino</item>
+             <item>Masculino</item>
+             <item>Não informar</item>
+     </string-array>
+
+</resources>
